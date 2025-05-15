@@ -1,4 +1,3 @@
-# Aamir
 <h1>Hi 👋, I'm Aamir Khan</h1>
 <p>a passionate computer engineering student</p>
 <h2>🚀 Languages and Tools I Use</h2>
